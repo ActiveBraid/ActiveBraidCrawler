@@ -1,4 +1,4 @@
-<h1 align="center">ActiveBraidCrawler</h1>
+<h1 align="center">Active Braid Crawler</h1>
 <p align="center">
 A bio inspired mobile robot capable of adapting its morphology to the surrounding environment through compliant structures and novel locomotion mechanisms. 
 </p>
@@ -6,7 +6,7 @@ A bio inspired mobile robot capable of adapting its morphology to the surroundin
     <img width="500" src="https://github.com/ActiveBraid/ActiveBraidCrawler/blob/main/Image/img1.jpg" alt="">
 </p>
 <p align="center">
-Fig 1: 
+Fig 1: Active Braid Crawler - 3 section design
 </p>
 
 # Introduction
@@ -22,7 +22,7 @@ The main structure of the robot is a braid i.e., a cylindrical shell consisting 
     <img width="500" src="https://github.com/ActiveBraid/ActiveBraidCrawler/blob/main/Image/img2.jpg" alt="">
 </p>
 <p align="center">
-Fig 2: 
+Fig 2: Assembled Braided Structure
 </p>
 <h3 align="left">2)	Radial Actuators</h3>
 The radial actuator converts the rotation of a servomotor into radial displacement. It is used to increase and decrease the diameter of the braided structure. It consists of a modified crank and slider mechanism, where the connecting rods of six individual sliding arms (radially arranged) are connected to a single crank, driven by a smart servo (Robotis-Dynamixel XM430-W210-R). Each sliding arms is connected to the inner surface of the braided structure through pin joints. The smart servo has an absolute encoder for position control and the its torque can be controlled by adjusting the input current, hence each servo acts as an actuator and a sensor.
@@ -30,11 +30,15 @@ The radial actuator converts the rotation of a servomotor into radial displaceme
     <img width="500" src="https://github.com/ActiveBraid/ActiveBraidCrawler/blob/main/Image/img3.jpg" alt="">
 </p>
 <p align="center">
-Fig 3: 
+Fig 3: Radial Actuator (CAD Design)
 </p>
 <p align="center">
     <img width="500" src="https://github.com/ActiveBraid/ActiveBraidCrawler/blob/main/Image/Table%201.png" alt="">
 </p>
+<p align="center">
+Table 1: Performance comparison with state of the art
+</p>
+
 <h4 align="left">Fabrication Instructions:</h4>
 The fabrication files are attached and one should download the zip files named "Assembly Instructions". Extract it and it contains the coresponding PDFs
 <h4 align="left">CAD files:</h4>
