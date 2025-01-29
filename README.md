@@ -18,4 +18,6 @@ The radial actuator converts the rotation of a servomotor into radial displaceme
     <img width="500" src="https://github.com/ActiveBraid/ActiveBraidCrawler/blob/main/Image/Table%201.png" alt="">
 </p>
 <h4 align="left">Fabrication Instructions:</h4>
+The fabrication files are attached and one should download the zip files named "Assembly Instructions". Extract it and it contains the coresponding PDFs
 <h4 align="left">CAD files:</h4>
+The CAD folder contains the Auto CAD files inside the zip folder
