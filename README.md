@@ -15,8 +15,7 @@ The main structure of the robot is a braid i.e., a cylindrical shell consisting 
 <h3 align="left">2)	Radial Actuators</h3>
 The radial actuator converts the rotation of a servomotor into radial displacement. It is used to increase and decrease the diameter of the braided structure. It consists of a modified crank and slider mechanism, where the connecting rods of six individual sliding arms (radially arranged) are connected to a single crank, driven by a smart servo (Robotis-Dynamixel XM430-W210-R). Each sliding arms is connected to the inner surface of the braided structure through pin joints. The smart servo has an absolute encoder for position control and the its torque can be controlled by adjusting the input current, hence each servo acts as an actuator and a sensor.
 <p align="center">
-TABLE I. Comparison of the devoloped system with other robotic platforms. 
+    <img width="500" src="https://github.com/ActiveBraid/ActiveBraidCrawler/blob/main/Image/Table1.png" alt="">
 </p>
-
 <h4 align="left">Fabrication Instructions:</h4>
 <h4 align="left">CAD files:</h4>
