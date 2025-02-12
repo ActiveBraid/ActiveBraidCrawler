@@ -34,7 +34,7 @@ Fig 3: Radial Actuator (CAD Design)
 
 | # | *Name* | *Speed* | *Actuation* | *Dimensions* | *Weight* |
 |---|   ---  |   ---   |     ---     |      ---     |    ---   |
-| 1 | Active Braid - CrawlerActive Braid - Crawler | Hor free 22mm/sec Hor cons 72mm/sec Ver cons 27mm/sec | 3 Robotis Dynamixel XM-430-w210 (82g-3Nm) | Dia (min 120mm – max 165mm) Length (min 140mm – max 400mm) |   600g   |
+| 1 | Active Braid - Crawler | Hor free 22mm/sec Hor cons 72mm/sec Ver cons 27mm/sec | 3 Robotis Dynamixel XM-430-w210 (82g-3Nm) | Dia (min 120mm – max 165mm) Length (min 140mm – max 400mm) |   600g   |
 | 2 | MRINSPECT-VII [1] | 25mm/sec | 1 DC motor | --- | --- |
 | 3 | PAROYS-II [2]| 41.6mm/sec | 3 RC servo motors 4 DC motors | Length 390mm Adaptable Dia 400-700mm | 7.8kg |
 | 4 | Screw drive mechanism robot [3]| --- | 1 DC motor | Length 156mm Dia 122-131mm | 0.9kg |
@@ -50,8 +50,8 @@ Table 1: Performance comparison with state of the art
 The fabrication files are attached and one should download the zip files named "Assembly Instructions". Extract it and it contains the coresponding PDFs
 <h4 align="left">CAD files:</h4>
 The CAD folder contains the Auto CAD files inside the zip folder
-<h3 align="left">3) References </h3>
 
+# References
 1. Kim, H.M., Suh, J.S., Choi, Y.S., Trong, T.D., Moon, H., Koo, J., Ryew, S. and Choi, H.R., 2013, November. An in-pipe robot with multi-axial differential gear mechanism. In Intelligent Robots and Systems (IROS), 2013 IEEE/RSJ International Conference on (pp. 252-257). IEEE.
 
 2. Park, J., Kim, T. and Yang, H., 2009, April. Development of an actively adaptable in-pipe robot. In Mechatronics, 2009. ICM 2009. IEEE International Conference on (pp. 1-5). IEEE
